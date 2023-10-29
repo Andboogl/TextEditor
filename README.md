@@ -18,7 +18,7 @@
 
 # Встановлення
 ### macOS
-    1. Заходимо за посиланням <link>
+    1. Заходимо за посиланням https://github.com/Andboogl/TextEditor/releases/tag/%23release2.0
     2. Нажимаємо на кнопку TextEditor 2.0.zip
     3. Розпаковуємо архів
     4. Переміщаємо программу у папку Applications/Программи
@@ -27,7 +27,7 @@
 ### Windows, Linux та інші системи
     1. Встановлюємо Python 3.12.0
     2. Встановлюємо git (якщо немає. Можна перевірити за допогою команди git --version)
-    3. Вводимо команду git clone <link>
+    3. Вводимо команду git clone https://github.com/Andboogl/TextEditor/
     4. Встановлюємо PyQt6
     5. Відкриваємо папку з программою
     6. Запускаємо файл main.py та користуємося
