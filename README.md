@@ -6,12 +6,12 @@
      - Вибор формату файла при зберегенні
 
 # Комбінації клавіш
-Command + o (на Windows Control + o): відкриття текстового файлу
-Command + s (на Windows Control + s): збереження змін у відкритому файлі
-Command + shift + s (на Windows Control + shift + s): збереження тексту користувача у файл
-Command + l (на Windows Control + l): очищення редактору (але сам файл не очищається)
-Command + f (на Windows Control + f): Вибір шрифта редактору (шрифт файлу не змінюється)
-Command + shift + f (на Windows Control + shift + f): Встановлення шрифта за замовчюванням.
+<p>Command + o (на Windows Control + o): відкриття текстового файлу</p>
+<p>Command + s (на Windows Control + s): збереження змін у відкритому файлі</p>
+<p>Command + shift + s (на Windows Control + shift + s): збереження тексту користувача у файл</p>
+<p>Command + l (на Windows Control + l): очищення редактору (але сам файл не очищається)</p>
+<p>Command + f (на Windows Control + f): Вибір шрифта редактору (шрифт файлу не змінюється)</p>
+<p>Command + shift + f (на Windows Control + shift + f): Встановлення шрифта за замовчюванням.</p>
 
 # Встановлення
 ### macOS
