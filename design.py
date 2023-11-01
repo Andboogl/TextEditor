@@ -7,7 +7,7 @@ class MainWindowWidgets:
          self.text_editor = QtWidgets.QTextEdit(main_window)
          self.text_editor.setPlaceholderText('Ввведіть текст вашого текстового файлу')
          main_window.setCentralWidget(self.text_editor)
-         main_window.setWindowTitle('TextEditor 2.1 BETA')
+         main_window.setWindowTitle('TextEditor 2.1')
          main_window.resize(450, 200)
          main_window.setMinimumSize(450, 200)
 

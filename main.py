@@ -56,8 +56,13 @@ class MainWindow(QtWidgets.QMainWindow):
 
         # Якщо користувач НЕ натиснув Cancel
         if file[0]:
-            functions.save(file[0], self.widgets.text_editor.toPlainText())
-            self.file = file[0]
+            try:
+                functions.save(file[0], self.widgets.text_editor.toPlainText())
+                self.file = file[0]
+            
+            except:
+                functions.show_message(self, 'Ви не можете зберегти файл у цій директорії')
+                self.save_as()
 
     def open_file(self):
         try:
